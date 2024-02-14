@@ -1,2 +1,2 @@
 # Test
-This just for learning and test purposes. 
+This is just for learning and test purposes. 
